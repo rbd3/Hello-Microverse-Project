@@ -1,21 +1,11 @@
 
 <a name="readme-top"></a>
-
-
-<div align="center">
-  
-  <h3><b>Hello Microverse Project </b></h3>
-
-</div>
-
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -57,13 +47,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-<!-- - [Live Demo Link](https://google.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up, follow these steps:
@@ -88,7 +71,10 @@ git clone https://github.com/rbd3/Hello-Microverse-Project.git
 ```
 ### Install
 
-This project doesn't need installation.
+- Install IDE like VS code
+- Install a browser like Google chrome
+- Install git on youre computer
+
 
 ### Usage
 
